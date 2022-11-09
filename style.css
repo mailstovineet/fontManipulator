@@ -1,0 +1,20 @@
+span{
+    width:100%;
+}
+h1{
+    width:100%;
+}
+body{
+    background:linear-gradient(to right top,black,cyan 70%)
+}
+.footer{
+    position:fixed;
+    bottom:0;
+    background-color:white;
+    width:100%;
+    font-size:16px;
+}
+canvas{
+    border:3px solid rgb(200, 195, 195);
+    box-shadow:5px 5px 5px red;
+}
